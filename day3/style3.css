@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0
+}
+h1{
+    background-color: black;
+    color:red;
+    text-decoration: underline;
+}
+p{
+    color: red;
+    font-style: italic;
+}
+#firstparagraph{
+    color: blueviolet;
+    font-weight:bold;
+}
+.box{
+    width: 500px;
+    height:500px;
+    background-image:url('messi.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}

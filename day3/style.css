@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+            
+            h1{
+                background-color:blue;
+                color:red;
+                text-align:center;
+                text-decoration:underline;
+
+        }
+            p{
+                color:red;
+                font-size:30px;
+                font-weight:bold;
+            }
+            #firstparagraph{
+                color:green;
+            }
+            #secondparagraph{
+                color:brown;
+            }
+            .my-own-class{
+                font-size:100px;
+
+            }
+            .box1{
+                width:1000px;
+                height:500px;
+                background-color:green;
+                text-align:center;
+                background-image:url('messi.png');
+                background-size: contain;
+                background-size: COVER;
+            }
